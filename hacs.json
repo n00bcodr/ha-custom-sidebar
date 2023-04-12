@@ -1,4 +1,5 @@
 {
     "name": "HomeAssistant Custom Sidebar",
-    "render_readme": true
+    "render_readme": true,
+    "filename": "custom_sidebar.js"
 }
